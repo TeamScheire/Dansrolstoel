@@ -4,9 +4,7 @@ Kim wil terug dansen met Pluim, maar Pluim zit in een rolstoel en heeft beperkte
 
 Hardware en software voor de arduino nano in de dansrolstoel van Pluim - ontworpen, geschreven en gemaakt door Ronald Van Ham.
 
-Zie [Team Scheire op canvas.be](http://www.canvas.be/team-scheire) voor info en beeldmateriaal.
-
-_filmpje met technologische uitdieping_
+Zie [Team Scheire op canvas.be](https://www.canvas.be/team-scheire/pluim-wil-dansen) voor info en beeldmateriaal.
 
 De oplossing bestaat uit 3 delen:
 
